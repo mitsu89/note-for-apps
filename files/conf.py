@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'note-for-apps'
-copyright = '2023, Mitsuhiro Sugishita'
-author = 'Mitsuhiro Sugishita'
+copyright = '2023, mitsu'
+author = 'mitsu'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
@@ -17,7 +17,7 @@ release = '1.0.0'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 language = 'ja'
 
