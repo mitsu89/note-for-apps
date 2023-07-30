@@ -3,18 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to note-for-apps's documentation!
-=========================================
+V‹KƒAƒvƒŠ“±“ü‚Ì’ˆÓ“_‚È‚Ç‚Ì”õ–Y˜^
+==================================
+
+****
+–ÚŸ
+****
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :numbered:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   ./chap1
+   ./chap2
