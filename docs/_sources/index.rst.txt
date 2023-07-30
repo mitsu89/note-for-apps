@@ -7,9 +7,8 @@
 目次
 #####
 
-..toctree::
+.. toctree::
 
-   :numbered:
 
    ./chap1.rst
    ./chap2.rst
