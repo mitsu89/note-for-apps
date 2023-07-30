@@ -3,15 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-V‹KƒAƒvƒŠ“±“ü‚Ì’ˆÓ“_‚È‚Ç‚Ì”õ–Y˜^
-==================================
+#####
+ç›®æ¬¡
+#####
 
-****
-–ÚŸ
-****
+..toctree::
 
-.. toctree::
    :numbered:
 
-   ./chap1
-   ./chap2
+   ./chap1.rst
+   ./chap2.rst
